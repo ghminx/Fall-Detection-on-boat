@@ -27,17 +27,10 @@
 ## 🎯 프로젝트 결과
 
 ### 🔹 감지 모델 결과
-
+![seg](https://github.com/user-attachments/assets/9be67570-27a3-436b-bfa9-49b55b1bd096)
 
 
 ### 🔹 챗봇 서비스 결과
-
-
-
-### 🎥 프로젝트 시연 영상 (최적화된 크기)
-
-![seg](https://github.com/user-attachments/assets/9be67570-27a3-436b-bfa9-49b55b1bd096)
-
 ![챗봇1](https://github.com/user-attachments/assets/ef9e5767-15b0-4715-bca1-3004e4a52e6a)
 
 
