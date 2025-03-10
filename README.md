@@ -27,7 +27,7 @@
 ## 🎯 프로젝트 결과
 
 ### 🔹 감지 모델 결과
-![seg](https://github.com/user-attachments/assets/9be67570-27a3-436b-bfa9-49b55b1bd096)
+<img src="https://github.com/user-attachments/assets/9be67570-27a3-436b-bfa9-49b55b1bd096" width="500"/>
 
 
 ### 🔹 챗봇 서비스 결과
