@@ -28,6 +28,7 @@ IoT 기기를 사용한 생체 데이터 수집
 ## 4. 프로젝트 결과
 ![seg](https://github.com/user-attachments/assets/9be67570-27a3-436b-bfa9-49b55b1bd096)
 
+![챗봇1](https://github.com/user-attachments/assets/ef9e5767-15b0-4715-bca1-3004e4a52e6a)
 
 
 ## 5. 프로젝트 정보
